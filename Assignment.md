@@ -43,4 +43,34 @@ Console.WriteLine();
   - 1 - 12 เด็ก
   - 13 – 19 วัยรุ่น
   - 20 – 50 วัยผู้ใหญ่
-  - 51 -  วัยชรา 
+  - 51 -  วัยชรา
+  - Console.WriteLine("Hello, World!");
+Console.Write("กรุณากรอกอายุ: ");
+var input = Console.ReadLine();
+if (int.TryParse(input, out int age))
+{
+    if (age >= 1 && age <= 12)
+    {
+        Console.WriteLine("เด็ก");
+    }
+    else if (age >= 13 && age <= 19)
+    {
+        Console.WriteLine("วัยรุ่น");
+    }
+    else if (age >= 20 && age <= 50)
+    {
+        Console.WriteLine("วัยผู้ใหญ่");
+    }
+    else if (age >= 51)
+    {
+        Console.WriteLine("ผู้สูงอายุ");
+    }
+    else
+    {
+        Console.WriteLine("กรุณากรอกอายุที่ถูกต้อง");
+    }
+}
+else
+{
+    Console.WriteLine("กรุณากรอกอายุเป็นตัวเลข");
+}
