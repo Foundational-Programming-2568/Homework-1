@@ -1,0 +1,203 @@
+#!meta
+
+{"kernelInfo":{"defaultKernelName":"csharp","items":[{"name":"csharp"},{"name":"fsharp","languageName":"F#","aliases":["f#","fs"]},{"name":"html","languageName":"HTML"},{"name":"http","languageName":"HTTP"},{"name":"javascript","languageName":"JavaScript","aliases":["js"]},{"name":"mermaid","languageName":"Mermaid"},{"name":"pwsh","languageName":"PowerShell","aliases":["powershell"]},{"name":"value"}]}}
+
+#!csharp
+
+for (int i = 2; i <= 100; i += 2)
+{
+   
+
+#!markdown
+
+## ข้อ 1 ให้ใช้ AI สร้างโปรแกรมที่มีความสามารถต่อไปนี้ ใน Polyglot notebook
+- นับเลข 1 – 100
+  -  แสดงเฉพาะเลขคี่
+
+#!csharp
+
+for (int i = 1; i <= 100; i += 2)
+{
+    Console.WriteLine(i);
+}
+
+#!csharp
+
+บเลข 1 – 100แสดงเฉพาะเลขคู่ 
+
+#!csharp
+
+for (int i = 2; i <= 100; i += 2)
+{
+    Console.WriteLine(i);
+}
+
+#!csharp
+
+for (int i = 2; i <= 100; i++)
+{
+    bool isPrime = true;
+    for (int j = 2; j <= Math.Sqrt(i); j++)
+    {
+        if (i % j == 0)
+        {
+            isPrime = false;
+            break;
+        }
+    }
+    if (isPrime)
+    {
+        Console.WriteLine(i);
+    }
+}
+
+#!csharp
+
+for (int i = 2; i <= 100; i++)
+{
+    bool isPrime = true;
+    for (int j = 2; j <= Math.Sqrt(i); j++)
+    {
+        if (i % j == 0)
+        {
+            isPrime = false;
+            break;
+        }
+    }
+    if (isPrime)
+    {
+        Console.WriteLine(i);
+    }
+}
+
+#!csharp
+
+ข้อ 2 ให้ใช้ AI สร้างโปรแกรมที่มีความสามารถต่อไปนี้ ใน Polyglot notebook
+- รับค่าอายุทางคีย์บอร์ด
+  - 1 - 12 เด็ก
+  - 13 – 19 วัยรุ่น
+  - 20 – 50 วัยผู้ใหญ่
+  - 51 -  วัยชรา 
+
+#!csharp
+
+Console.Write("กรุณากรอกอายุ: ");
+int age = int.Parse(Console.ReadLine());
+if (age >= 1 && age <= 12)
+{
+    Console.WriteLine("เด็ก");
+}
+
+#!csharp
+
+Console.Write("กรุณากรอกอายุ: ");
+int age = int.Parse(Console.ReadLine());
+if (age >= 1 && age <= 12)
+{
+    Console.WriteLine("เด็ก");
+}
+
+#!csharp
+
+for (int i = 13; i <= 19; i++)
+{
+    bool isPrime = true;
+    for (int j = 2; j <= Math.Sqrt(i); j++)
+    {
+        if (i % j == 0)
+        {
+            isPrime = false;
+            break;
+        }
+    }
+    if (isPrime)
+    {
+        Console.WriteLine(i);
+    }
+}
+
+#!csharp
+
+}// แสดงเลขคี่ 1-100
+for (int i = 1; i <= 100; i += 2)
+{
+    Console.WriteLine(i);
+}
+
+// แสดงเลขคู่ 1-100
+for (int i = 2; i <= 100; i += 2)
+{
+    Console.WriteLine(i);
+}
+
+// แสดงเลขจำนวนเฉพาะ 1-100
+for (int i = 2; i <= 100; i++)
+{
+    bool isPrime = true;
+    for (int j = 2; j <= Math.Sqrt(i); j++)
+    {
+        if (i % j == 0)
+        {
+            isPrime = false;
+            break;
+        }
+    }
+    if (isPrime)
+    {
+        Console.WriteLine(i);
+    }
+
+#!csharp
+
+// แสดงเลขคี่ 1-100
+for (int i = 1; i <= 100; i += 2)
+{
+    Console.WriteLine(i);
+}
+
+// แสดงเลขคู่ 1-100
+for (int i = 2; i <= 100; i += 2)
+{
+    Console.WriteLine(i);
+}
+
+// แสดงเลขจำนวนเฉพาะ 1-100
+for (int i = 2; i <= 100; i++)
+{
+    bool isPrime = true;
+    for (int j = 2; j <= Math.Sqrt(i); j++)
+    {
+        if (i % j == 0)
+        {
+            isPrime = false;
+            break;
+        }
+    }
+    if (isPrime)
+    {
+        Console.WriteLine(i);
+    }
+}
+
+#!csharp
+
+for (int i = 13; i <= 19; i++)
+{
+    bool isPrime = true;
+    for (int j = 2; j <= Math.Sqrt(i); j++)
+    {
+        if (i % j == 0)
+        {
+            isPrime = false;
+            break;
+        }
+    }
+    if (isPrime)
+    {
+        Console.WriteLine(i);
+    }
+}
+
+#!csharp
+
+รับค่าอายุทางคีย์บอร์ด20 – 50 วัยผู้ใหญ่C#
