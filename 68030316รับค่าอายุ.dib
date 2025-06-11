@@ -1,0 +1,32 @@
+#!meta
+
+{"kernelInfo":{"defaultKernelName":"csharp","items":[{"name":"csharp","languageName":"csharp"},{"name":"fsharp","languageName":"F#","aliases":["f#","fs"]},{"name":"html","languageName":"HTML"},{"name":"http","languageName":"HTTP"},{"name":"javascript","languageName":"JavaScript","aliases":["js"]},{"name":"mermaid","languageName":"Mermaid"},{"name":"pwsh","languageName":"PowerShell","aliases":["powershell"]},{"name":"value"}]}}
+
+#!markdown
+
+## รับค่าอายุ
+
+#!csharp
+
+int age = 5 ;//<<== คุณใส่ตัวเลขอายุที่นี่ เช่น 10, 17, 30, 55
+
+if (age >= 1 && age <= 12)
+{
+    Console.WriteLine("คุณอยู่ในช่วงวัย: เด็ก");
+}
+else if (age >= 13 && age <= 19)
+{
+    Console.WriteLine("คุณอยู่ในช่วงวัย: วัยรุ่น");
+}
+else if (age >= 20 && age <= 50)
+{
+    Console.WriteLine("คุณอยู่ในช่วงวัย: วัยผู้ใหญ่");
+}
+else if (age >= 51)
+{
+    Console.WriteLine("คุณอยู่ในช่วงวัย: วัยชรา");
+}
+else
+{
+    Console.WriteLine("อายุที่กรอกไม่ถูกต้อง (ควรมากกว่า 0)");
+}
