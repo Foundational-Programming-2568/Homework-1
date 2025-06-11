@@ -1,0 +1,15 @@
+D:\aomsin\Homework-1\Homework\bin\Debug\net9.0\Homework.exe
+D:\aomsin\Homework-1\Homework\bin\Debug\net9.0\Homework.deps.json
+D:\aomsin\Homework-1\Homework\bin\Debug\net9.0\Homework.runtimeconfig.json
+D:\aomsin\Homework-1\Homework\bin\Debug\net9.0\Homework.dll
+D:\aomsin\Homework-1\Homework\bin\Debug\net9.0\Homework.pdb
+D:\aomsin\Homework-1\Homework\obj\Debug\net9.0\Homework.GeneratedMSBuildEditorConfig.editorconfig
+D:\aomsin\Homework-1\Homework\obj\Debug\net9.0\Homework.AssemblyInfoInputs.cache
+D:\aomsin\Homework-1\Homework\obj\Debug\net9.0\Homework.AssemblyInfo.cs
+D:\aomsin\Homework-1\Homework\obj\Debug\net9.0\Homework.csproj.CoreCompileInputs.cache
+D:\aomsin\Homework-1\Homework\obj\Debug\net9.0\Homework.sourcelink.json
+D:\aomsin\Homework-1\Homework\obj\Debug\net9.0\Homework.dll
+D:\aomsin\Homework-1\Homework\obj\Debug\net9.0\refint\Homework.dll
+D:\aomsin\Homework-1\Homework\obj\Debug\net9.0\Homework.pdb
+D:\aomsin\Homework-1\Homework\obj\Debug\net9.0\Homework.genruntimeconfig.cache
+D:\aomsin\Homework-1\Homework\obj\Debug\net9.0\ref\Homework.dll
