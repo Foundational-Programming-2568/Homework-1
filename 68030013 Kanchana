@@ -1,0 +1,50 @@
+for (int i = 1; i <= 100; i++)
+{
+    string type = "";
+
+    if (i % 2 == 0)
+        type += "คู่ ";
+    else
+        type += "คี่ ";
+
+    // ตรวจสอบจำนวนเฉพาะ
+    bool isPrime = i > 1;
+    for (int j = 2; j <= Math.Sqrt(i); j++)
+    {
+        if (i % j == 0)
+        {
+            isPrime = false;
+            break;
+        }
+    }
+
+    if (isPrime)
+        type += "จำนวนเฉพาะ";
+
+    Console.WriteLine($"{i}: {type}");
+}
+
+
+Console.Write("กรุณาใส่อายุ: ");
+int age = int.Parse(Console.ReadLine());
+
+if (age >= 1 && age <= 12);
+{
+    Console.WriteLine("เด็ก");
+}
+else if (age >= 13 && age <= 19);
+{
+    Console.WriteLine("วัยรุ่น");
+}
+else if (age >= 20 && age <= 50);
+{
+    Console.WriteLine("วัยผู้ใหญ่");
+}
+else if (age >= 51);
+{
+    Console.WriteLine("วัยชรา");
+}
+else
+{
+    Console.WriteLine("อายุไม่ถูกต้อง");
+}
