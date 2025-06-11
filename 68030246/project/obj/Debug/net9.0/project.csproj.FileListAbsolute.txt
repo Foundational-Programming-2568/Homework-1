@@ -1,0 +1,15 @@
+D:\june68\Homework-1\project\bin\Debug\net9.0\project.exe
+D:\june68\Homework-1\project\bin\Debug\net9.0\project.deps.json
+D:\june68\Homework-1\project\bin\Debug\net9.0\project.runtimeconfig.json
+D:\june68\Homework-1\project\bin\Debug\net9.0\project.dll
+D:\june68\Homework-1\project\bin\Debug\net9.0\project.pdb
+D:\june68\Homework-1\project\obj\Debug\net9.0\project.GeneratedMSBuildEditorConfig.editorconfig
+D:\june68\Homework-1\project\obj\Debug\net9.0\project.AssemblyInfoInputs.cache
+D:\june68\Homework-1\project\obj\Debug\net9.0\project.AssemblyInfo.cs
+D:\june68\Homework-1\project\obj\Debug\net9.0\project.csproj.CoreCompileInputs.cache
+D:\june68\Homework-1\project\obj\Debug\net9.0\project.sourcelink.json
+D:\june68\Homework-1\project\obj\Debug\net9.0\project.dll
+D:\june68\Homework-1\project\obj\Debug\net9.0\refint\project.dll
+D:\june68\Homework-1\project\obj\Debug\net9.0\project.pdb
+D:\june68\Homework-1\project\obj\Debug\net9.0\project.genruntimeconfig.cache
+D:\june68\Homework-1\project\obj\Debug\net9.0\ref\project.dll
