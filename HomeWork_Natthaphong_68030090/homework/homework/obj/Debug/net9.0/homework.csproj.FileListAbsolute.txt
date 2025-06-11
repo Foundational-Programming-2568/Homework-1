@@ -1,0 +1,15 @@
+/Users/natthaphongchanwat/Developer/Homework-1/HomeWork_Natthaphong_68030090/homework/homework/bin/Debug/net9.0/homework
+/Users/natthaphongchanwat/Developer/Homework-1/HomeWork_Natthaphong_68030090/homework/homework/bin/Debug/net9.0/homework.deps.json
+/Users/natthaphongchanwat/Developer/Homework-1/HomeWork_Natthaphong_68030090/homework/homework/bin/Debug/net9.0/homework.runtimeconfig.json
+/Users/natthaphongchanwat/Developer/Homework-1/HomeWork_Natthaphong_68030090/homework/homework/bin/Debug/net9.0/homework.dll
+/Users/natthaphongchanwat/Developer/Homework-1/HomeWork_Natthaphong_68030090/homework/homework/bin/Debug/net9.0/homework.pdb
+/Users/natthaphongchanwat/Developer/Homework-1/HomeWork_Natthaphong_68030090/homework/homework/obj/Debug/net9.0/homework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/natthaphongchanwat/Developer/Homework-1/HomeWork_Natthaphong_68030090/homework/homework/obj/Debug/net9.0/homework.AssemblyInfoInputs.cache
+/Users/natthaphongchanwat/Developer/Homework-1/HomeWork_Natthaphong_68030090/homework/homework/obj/Debug/net9.0/homework.AssemblyInfo.cs
+/Users/natthaphongchanwat/Developer/Homework-1/HomeWork_Natthaphong_68030090/homework/homework/obj/Debug/net9.0/homework.csproj.CoreCompileInputs.cache
+/Users/natthaphongchanwat/Developer/Homework-1/HomeWork_Natthaphong_68030090/homework/homework/obj/Debug/net9.0/homework.sourcelink.json
+/Users/natthaphongchanwat/Developer/Homework-1/HomeWork_Natthaphong_68030090/homework/homework/obj/Debug/net9.0/homework.dll
+/Users/natthaphongchanwat/Developer/Homework-1/HomeWork_Natthaphong_68030090/homework/homework/obj/Debug/net9.0/refint/homework.dll
+/Users/natthaphongchanwat/Developer/Homework-1/HomeWork_Natthaphong_68030090/homework/homework/obj/Debug/net9.0/homework.pdb
+/Users/natthaphongchanwat/Developer/Homework-1/HomeWork_Natthaphong_68030090/homework/homework/obj/Debug/net9.0/homework.genruntimeconfig.cache
+/Users/natthaphongchanwat/Developer/Homework-1/HomeWork_Natthaphong_68030090/homework/homework/obj/Debug/net9.0/ref/homework.dll
