@@ -1,0 +1,15 @@
+D:\Homework-1\work2\bin\Debug\net9.0\work2.exe
+D:\Homework-1\work2\bin\Debug\net9.0\work2.deps.json
+D:\Homework-1\work2\bin\Debug\net9.0\work2.runtimeconfig.json
+D:\Homework-1\work2\bin\Debug\net9.0\work2.dll
+D:\Homework-1\work2\bin\Debug\net9.0\work2.pdb
+D:\Homework-1\work2\obj\Debug\net9.0\work2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Homework-1\work2\obj\Debug\net9.0\work2.AssemblyInfoInputs.cache
+D:\Homework-1\work2\obj\Debug\net9.0\work2.AssemblyInfo.cs
+D:\Homework-1\work2\obj\Debug\net9.0\work2.csproj.CoreCompileInputs.cache
+D:\Homework-1\work2\obj\Debug\net9.0\work2.sourcelink.json
+D:\Homework-1\work2\obj\Debug\net9.0\work2.dll
+D:\Homework-1\work2\obj\Debug\net9.0\refint\work2.dll
+D:\Homework-1\work2\obj\Debug\net9.0\work2.pdb
+D:\Homework-1\work2\obj\Debug\net9.0\work2.genruntimeconfig.cache
+D:\Homework-1\work2\obj\Debug\net9.0\ref\work2.dll
