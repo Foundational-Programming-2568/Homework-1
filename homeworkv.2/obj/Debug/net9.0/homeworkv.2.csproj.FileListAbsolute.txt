@@ -1,0 +1,14 @@
+C:\Work\PreTeaching2025\Lab01_Homework\homeworkv.2\bin\Debug\net9.0\homeworkv.2.exe
+C:\Work\PreTeaching2025\Lab01_Homework\homeworkv.2\bin\Debug\net9.0\homeworkv.2.deps.json
+C:\Work\PreTeaching2025\Lab01_Homework\homeworkv.2\bin\Debug\net9.0\homeworkv.2.runtimeconfig.json
+C:\Work\PreTeaching2025\Lab01_Homework\homeworkv.2\bin\Debug\net9.0\homeworkv.2.dll
+C:\Work\PreTeaching2025\Lab01_Homework\homeworkv.2\bin\Debug\net9.0\homeworkv.2.pdb
+C:\Work\PreTeaching2025\Lab01_Homework\homeworkv.2\obj\Debug\net9.0\homeworkv.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\PreTeaching2025\Lab01_Homework\homeworkv.2\obj\Debug\net9.0\homeworkv.2.AssemblyInfoInputs.cache
+C:\Work\PreTeaching2025\Lab01_Homework\homeworkv.2\obj\Debug\net9.0\homeworkv.2.AssemblyInfo.cs
+C:\Work\PreTeaching2025\Lab01_Homework\homeworkv.2\obj\Debug\net9.0\homeworkv.2.csproj.CoreCompileInputs.cache
+C:\Work\PreTeaching2025\Lab01_Homework\homeworkv.2\obj\Debug\net9.0\homeworkv.2.dll
+C:\Work\PreTeaching2025\Lab01_Homework\homeworkv.2\obj\Debug\net9.0\refint\homeworkv.2.dll
+C:\Work\PreTeaching2025\Lab01_Homework\homeworkv.2\obj\Debug\net9.0\homeworkv.2.pdb
+C:\Work\PreTeaching2025\Lab01_Homework\homeworkv.2\obj\Debug\net9.0\homeworkv.2.genruntimeconfig.cache
+C:\Work\PreTeaching2025\Lab01_Homework\homeworkv.2\obj\Debug\net9.0\ref\homeworkv.2.dll
