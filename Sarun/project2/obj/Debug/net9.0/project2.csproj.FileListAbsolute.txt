@@ -1,0 +1,15 @@
+D:\June68\Homework-1\Sarun\project2\bin\Debug\net9.0\project2.exe
+D:\June68\Homework-1\Sarun\project2\bin\Debug\net9.0\project2.deps.json
+D:\June68\Homework-1\Sarun\project2\bin\Debug\net9.0\project2.runtimeconfig.json
+D:\June68\Homework-1\Sarun\project2\bin\Debug\net9.0\project2.dll
+D:\June68\Homework-1\Sarun\project2\bin\Debug\net9.0\project2.pdb
+D:\June68\Homework-1\Sarun\project2\obj\Debug\net9.0\project2.GeneratedMSBuildEditorConfig.editorconfig
+D:\June68\Homework-1\Sarun\project2\obj\Debug\net9.0\project2.AssemblyInfoInputs.cache
+D:\June68\Homework-1\Sarun\project2\obj\Debug\net9.0\project2.AssemblyInfo.cs
+D:\June68\Homework-1\Sarun\project2\obj\Debug\net9.0\project2.csproj.CoreCompileInputs.cache
+D:\June68\Homework-1\Sarun\project2\obj\Debug\net9.0\project2.sourcelink.json
+D:\June68\Homework-1\Sarun\project2\obj\Debug\net9.0\project2.dll
+D:\June68\Homework-1\Sarun\project2\obj\Debug\net9.0\refint\project2.dll
+D:\June68\Homework-1\Sarun\project2\obj\Debug\net9.0\project2.pdb
+D:\June68\Homework-1\Sarun\project2\obj\Debug\net9.0\project2.genruntimeconfig.cache
+D:\June68\Homework-1\Sarun\project2\obj\Debug\net9.0\ref\project2.dll
