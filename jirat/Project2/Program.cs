@@ -1,0 +1,48 @@
+﻿// See https://aka.ms/new-console-template for more information
+
+// นับเลข 1 – 100
+var numbers = Enumerable.Range(1, 100).ToList();
+
+// แสดงเฉพาะเลขคี่
+var oddNumbers = numbers.Where(n => n % 2 != 0).ToList();
+Console.WriteLine("เลขคี่:");
+Console.WriteLine(string.Join(", ", oddNumbers));
+
+// แสดงเฉพาะเลขคู่
+var evenNumbers = numbers.Where(n => n % 2 == 0).ToList();
+Console.WriteLine("\nเลขคู่:");
+Console.WriteLine(string.Join(", ", evenNumbers));
+
+// แสดงเฉพาะเลขจำนวนเฉพาะ
+bool IsPrime(int n)
+{
+    if (n < 2) return false;
+    for (int i = 2; i <= Math.Sqrt(n); i++)
+        if (n % i == 0) return false;
+    return true;
+}
+var primeNumbers = numbers.Where(IsPrime).ToList();
+Console.WriteLine("\nเลขจำนวนเฉพาะ:");
+Console.WriteLine(string.Join(", ", primeNumbers));
+
+
+
+
+Console.Write("กรุณากรอกอายุ: ");
+if (int.TryParse(Console.ReadLine(), out int age))
+{
+    if (age >= 1 && age <= 12)
+        Console.WriteLine("เด็ก");
+    else if (age >= 13 && age <= 19)
+        Console.WriteLine("วัยรุ่น");
+    else if (age >= 20 && age <= 50)
+        Console.WriteLine("วัยผู้ใหญ่");
+    else if (age >= 51)
+        Console.WriteLine("วัยชรา");
+    else
+        Console.WriteLine("กรุณากรอกอายุที่ถูกต้อง");
+}
+else
+{
+    Console.WriteLine("กรุณากรอกตัวเลขที่ถูกต้อง");
+}
