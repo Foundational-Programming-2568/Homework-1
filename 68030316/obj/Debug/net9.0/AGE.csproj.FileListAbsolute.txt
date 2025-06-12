@@ -1,0 +1,15 @@
+D:\HW\Homework-1\AGE\bin\Debug\net9.0\AGE.exe
+D:\HW\Homework-1\AGE\bin\Debug\net9.0\AGE.deps.json
+D:\HW\Homework-1\AGE\bin\Debug\net9.0\AGE.runtimeconfig.json
+D:\HW\Homework-1\AGE\bin\Debug\net9.0\AGE.dll
+D:\HW\Homework-1\AGE\bin\Debug\net9.0\AGE.pdb
+D:\HW\Homework-1\AGE\obj\Debug\net9.0\AGE.GeneratedMSBuildEditorConfig.editorconfig
+D:\HW\Homework-1\AGE\obj\Debug\net9.0\AGE.AssemblyInfoInputs.cache
+D:\HW\Homework-1\AGE\obj\Debug\net9.0\AGE.AssemblyInfo.cs
+D:\HW\Homework-1\AGE\obj\Debug\net9.0\AGE.csproj.CoreCompileInputs.cache
+D:\HW\Homework-1\AGE\obj\Debug\net9.0\AGE.sourcelink.json
+D:\HW\Homework-1\AGE\obj\Debug\net9.0\AGE.dll
+D:\HW\Homework-1\AGE\obj\Debug\net9.0\refint\AGE.dll
+D:\HW\Homework-1\AGE\obj\Debug\net9.0\AGE.pdb
+D:\HW\Homework-1\AGE\obj\Debug\net9.0\AGE.genruntimeconfig.cache
+D:\HW\Homework-1\AGE\obj\Debug\net9.0\ref\AGE.dll
