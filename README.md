@@ -11,3 +11,7 @@
   - 13 – 19 วัยรุ่น
   - 20 – 50 วัยผู้ใหญ่
   - 51 -  วัยชรา 
+
+
+## แนวทางการส่งงาน
+![image](https://github.com/user-attachments/assets/fb83cc0f-c9db-4003-9303-8018588fdca0)
