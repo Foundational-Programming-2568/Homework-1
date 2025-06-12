@@ -1,0 +1,15 @@
+D:\Home work\Homework-1\Homework2\bin\Debug\net9.0\Homework2.exe
+D:\Home work\Homework-1\Homework2\bin\Debug\net9.0\Homework2.deps.json
+D:\Home work\Homework-1\Homework2\bin\Debug\net9.0\Homework2.runtimeconfig.json
+D:\Home work\Homework-1\Homework2\bin\Debug\net9.0\Homework2.dll
+D:\Home work\Homework-1\Homework2\bin\Debug\net9.0\Homework2.pdb
+D:\Home work\Homework-1\Homework2\obj\Debug\net9.0\Homework2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Home work\Homework-1\Homework2\obj\Debug\net9.0\Homework2.AssemblyInfoInputs.cache
+D:\Home work\Homework-1\Homework2\obj\Debug\net9.0\Homework2.AssemblyInfo.cs
+D:\Home work\Homework-1\Homework2\obj\Debug\net9.0\Homework2.csproj.CoreCompileInputs.cache
+D:\Home work\Homework-1\Homework2\obj\Debug\net9.0\Homework2.sourcelink.json
+D:\Home work\Homework-1\Homework2\obj\Debug\net9.0\Homework2.dll
+D:\Home work\Homework-1\Homework2\obj\Debug\net9.0\refint\Homework2.dll
+D:\Home work\Homework-1\Homework2\obj\Debug\net9.0\Homework2.pdb
+D:\Home work\Homework-1\Homework2\obj\Debug\net9.0\Homework2.genruntimeconfig.cache
+D:\Home work\Homework-1\Homework2\obj\Debug\net9.0\ref\Homework2.dll
