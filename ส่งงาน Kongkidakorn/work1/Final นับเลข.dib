@@ -1,0 +1,33 @@
+#!meta
+
+{"kernelInfo":{"defaultKernelName":"csharp","items":[{"name":"csharp","languageName":"csharp"},{"name":"fsharp","languageName":"F#","aliases":["f#","fs"]},{"name":"html","languageName":"HTML"},{"name":"http","languageName":"HTTP"},{"name":"javascript","languageName":"JavaScript","aliases":["js"]},{"name":"mermaid","languageName":"Mermaid"},{"name":"pwsh","languageName":"PowerShell","aliases":["powershell"]},{"name":"value"}]}}
+
+#!markdown
+
+# นับเลข 1 – 100
+# แสดงเฉพาะเลขคี่
+# แสดงเฉพาะเลขคู่
+# แสดงเฉพาะเลขจำนวนเฉพาะ
+
+#!csharp
+
+string border = new string('═', 60);
+Console.WriteLine($"╔{border}╗");
+Console.Write("║ เลขคี่: ");
+for (int i = 1; i <= 100; i++)
+    if (i % 2 != 0) Console.Write($"{i} ");
+Console.WriteLine(new string(' ', 60 - 8 - 48) + "║");
+
+Console.Write("║ เลขคู่: ");
+for (int i = 1; i <= 100; i++)
+    if (i % 2 == 0) Console.Write($"{i} ");
+Console.WriteLine(new string(' ', 60 - 8 - 48) + "║");
+
+Console.Write("║ จำนวนเฉพาะ: ");
+for (int i = 2; i <= 100; i++)
+{
+    bool isPrime = true;
+    for (int j = 2; j <= Math.Sqrt(i); j++)
+        if (i % j == 0) { isPrime = false; break; }
+    if (isPrime) Console.Write($"{i} ");
+}
