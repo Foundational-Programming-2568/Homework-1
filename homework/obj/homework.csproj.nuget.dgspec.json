@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\HW\\homework-1\\homework\\homework.csproj": {}
+    "C:\\HW\\Homework-1\\homework\\homework.csproj": {}
   },
   "projects": {
-    "C:\\HW\\homework-1\\homework\\homework.csproj": {
+    "C:\\HW\\Homework-1\\homework\\homework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\HW\\homework-1\\homework\\homework.csproj",
+        "projectUniqueName": "C:\\HW\\Homework-1\\homework\\homework.csproj",
         "projectName": "homework",
-        "projectPath": "C:\\HW\\homework-1\\homework\\homework.csproj",
+        "projectPath": "C:\\HW\\Homework-1\\homework\\homework.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\HW\\homework-1\\homework\\obj\\",
+        "outputPath": "C:\\HW\\Homework-1\\homework\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config"
