@@ -1,0 +1,15 @@
+D:\June68\Homework-1\projact\bin\Debug\net9.0\projact.exe
+D:\June68\Homework-1\projact\bin\Debug\net9.0\projact.deps.json
+D:\June68\Homework-1\projact\bin\Debug\net9.0\projact.runtimeconfig.json
+D:\June68\Homework-1\projact\bin\Debug\net9.0\projact.dll
+D:\June68\Homework-1\projact\bin\Debug\net9.0\projact.pdb
+D:\June68\Homework-1\projact\obj\Debug\net9.0\projact.GeneratedMSBuildEditorConfig.editorconfig
+D:\June68\Homework-1\projact\obj\Debug\net9.0\projact.AssemblyInfoInputs.cache
+D:\June68\Homework-1\projact\obj\Debug\net9.0\projact.AssemblyInfo.cs
+D:\June68\Homework-1\projact\obj\Debug\net9.0\projact.csproj.CoreCompileInputs.cache
+D:\June68\Homework-1\projact\obj\Debug\net9.0\projact.sourcelink.json
+D:\June68\Homework-1\projact\obj\Debug\net9.0\projact.dll
+D:\June68\Homework-1\projact\obj\Debug\net9.0\refint\projact.dll
+D:\June68\Homework-1\projact\obj\Debug\net9.0\projact.pdb
+D:\June68\Homework-1\projact\obj\Debug\net9.0\projact.genruntimeconfig.cache
+D:\June68\Homework-1\projact\obj\Debug\net9.0\ref\projact.dll
